@@ -13,10 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username= ahmedsabry10&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📝 My Cv
-![](https://drive.google.com/file/d/1Pq7YlcmIVbMRuCHJ0-XM7C2yXF_TCD9G/view?usp=drive_link )
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://drive.google.com/file/d/1Pq7YlcmIVbMRuCHJ0-XM7C2yXF_TCD9G/view?usp=drive_link)
 
 
 
